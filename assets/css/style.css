@@ -1,0 +1,16 @@
+body{
+    font-family: 'Dosis', sans-serif;
+}
+
+#imagen{
+    text-align: left;
+}
+
+#resultadorepos{
+    text-align: right;
+    display: inline-block;
+}
+
+#resultadonombre{
+    display: inline-block;
+}
